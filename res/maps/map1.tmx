@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="32" height="20" tilewidth="16" tileheight="16">
+ <tileset firstgid="1" name="tileset" tilewidth="16" tileheight="16">
+  <image source="tileset.png" width="128" height="15971"/>
+  <tile id="0">
+   <properties>
+    <property name="isBlocked" value="false"/>
+   </properties>
+  </tile>
+  <tile id="4">
+   <properties>
+    <property name="isBlocked" value="true"/>
+   </properties>
+  </tile>
+  <tile id="5">
+   <properties>
+    <property name="isBlocked" value="true"/>
+   </properties>
+  </tile>
+  <tile id="10">
+   <properties>
+    <property name="" value=""/>
+   </properties>
+  </tile>
+  <tile id="11">
+   <properties>
+    <property name="isBlocked" value="true"/>
+   </properties>
+  </tile>
+  <tile id="12">
+   <properties>
+    <property name="isBlocked" value="true"/>
+   </properties>
+  </tile>
+  <tile id="13">
+   <properties>
+    <property name="isBlocked" value="true"/>
+   </properties>
+  </tile>
+  <tile id="20">
+   <properties>
+    <property name="isBlocked" value="true"/>
+   </properties>
+  </tile>
+  <tile id="21">
+   <properties>
+    <property name="isBlocked" value="true"/>
+   </properties>
+  </tile>
+  <tile id="210">
+   <properties>
+    <property name="" value=""/>
+   </properties>
+  </tile>
+  <tile id="211">
+   <properties>
+    <property name="" value=""/>
+   </properties>
+  </tile>
+  <tile id="220">
+   <properties>
+    <property name="isBlocked" value="true"/>
+   </properties>
+  </tile>
+  <tile id="2244">
+   <properties>
+    <property name="" value=""/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="Kachelebene 1" width="32" height="20">
+  <properties>
+   <property name="" value=""/>
+  </properties>
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NlYGBgA2LWAaJ5gZhvAGmYO0SBWIyONLr/GemM0f1Pb/tH/T/q/1H/j/p/1P+j/h/1PwPDXTpjmL0AU90IfwAKAAA=
+  </data>
+ </layer>
+</map>
